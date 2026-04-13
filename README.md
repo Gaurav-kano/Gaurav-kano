@@ -1,6 +1,6 @@
-# 💫 About Me:
-Backend Software Engineer with 2.5 years of experience building scalable microservices and high-performance APIs in<br>FinTech systems. Skilled in Node.js, TypeScript, distributed systems, Redis caching, and event-driven architectures.<br>Experienced in designing secure, scalable backend services supporting 10K+ enterprise users with strong focus on system<br>design, performance, and reliability.
 
+# 👋 Hi, I'm Gaurav Kanojia  
+Backend Software Engineer with 2.5+ years of experience building scalable, high-performance systems in FinTech. I specialize in designing low-latency APIs, distributed systems, and microservices using Node.js and TypeScript.<br>I focus on solving real-world engineering problems — optimizing performance through caching (Redis), designing event-driven architectures, and building reliable systems that scale to thousands of users.<br>I believe great backend engineering is not just about writing code, but about making the right trade-offs between performance, scalability, and consistency.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gaurav-kanojia-dev/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kanojia.gaurav3012@gmail.com) 
